@@ -1,4 +1,4 @@
-#**Decoding neurophysiological dynamics for parkinson’s disease Diagnosis via interpretable representation learning-based transformer**
+# **Decoding neurophysiological dynamics for parkinson’s disease Diagnosis via interpretable representation learning-based transformer**
   Neha Sharma, Kumar Gaurav and Tharun Kumar Reddy Bollu, Member, IEEE
 
 
